@@ -1,2 +1,2 @@
 # cubi
-BigInteger class to c++ using Nvidia CUDA technology
+BigInteger class to c++ with using Nvidia CUDA technology
